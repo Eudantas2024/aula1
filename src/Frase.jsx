@@ -3,7 +3,8 @@ export function Frase(){
     return(
         <>
         <div className={styles.fraseContainer}>
-            <p>Este componente é apenas uma frase!</p>
+            <p className={styles.fraseContent}>Este componente é apenas uma frase!</p>
+        
         </div>
         
         </>

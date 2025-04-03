@@ -4,7 +4,10 @@
 }
 
 .fraseContent{
-    color: #fff;
+    
+    color: #f017f0;
+    font-size: 3rem;
+    padding: 4rem;
     background-color: #333;
     margin: 0;
 }
